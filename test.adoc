@@ -6,3 +6,4 @@ Asciidoc test
 
 I've had twelve years to think about it. And if I had it to do over again, I would have grabbed the phaser and pointed it at you instead of them. Could someone survive inside a transporter buffer for 75 years? Maybe we better talk out here; the observation lounge has turned into a swamp. Now, how the hell do we defeat an enemy that knows us better than we know ourselves?
 
+include::inc.adoc[]
